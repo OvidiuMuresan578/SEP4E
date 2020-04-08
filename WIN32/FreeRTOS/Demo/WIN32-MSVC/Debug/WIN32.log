@@ -1,0 +1,8 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/wc4574'
+  main_blinky.c
+c:\users\user\desktop\sep4etofix\win32\freertos\demo\win32-msvc\main_blinky.c(71): warning C4242: '=': conversion from 'int' to 'char', possible loss of data
+c:\users\user\desktop\sep4etofix\win32\freertos\demo\win32-msvc\main_blinky.c(83): warning C4098: 'prvSendTask': 'void' function returning a value
+c:\users\user\desktop\sep4etofix\win32\freertos\demo\win32-msvc\main_blinky.c(77): warning C4189: 'total_bytes_written': local variable is initialized but not referenced
+c:\users\user\desktop\sep4etofix\win32\freertos\demo\win32-msvc\main_blinky.c(111): warning C4047: 'function': 'LPOVERLAPPED' differs in levels of indirection from 'DWORD'
+c:\users\user\desktop\sep4etofix\win32\freertos\demo\win32-msvc\main_blinky.c(111): warning C4024: 'ReadFile': different types for formal and actual parameter 5
+  WIN32.vcxproj -> C:\Users\User\Desktop\SEP4Etofix\WIN32\FreeRTOS\Demo\WIN32-MSVC\.\Debug\RTOSDemo.exe
